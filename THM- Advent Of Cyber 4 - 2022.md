@@ -164,3 +164,39 @@
                 - **bestfestivalcompany.thm,virustotal.com**           
   - Going back to strings inside the malware sample, what is the complete URL used to download the file hosted in the first domain accessed by the malware?
                    - _http://bestfestivalcompany.thm/favicon.ico        
+
+
+
+### Day 13
+
+- What is the "Percent Packets" value of the "Hypertext Transfer Protocol"?
+				    - **0.3**
+- Which port number has received more than 1000 packets?				    
+                    - **3389**
+- What is the service name of the used protocol that received more than 1000 packets?
+                     - **RDP**
+- What are the domain names?  
+- Enter the domains in alphabetical order and defanged format. (format: domain[.]zzz,domain[.]zzz)
+                    - **bestfestivalcompany[.]thm,cdn[.]bandityeti[.]thm**
+- What are the names of the requested files?  
+- Enter the names in alphabetical order and in defanged format. (format: file[.]xyz,file[.]xyz)
+                   - **10[.]10[.]29[.]186**
+- Which domain address hosts the malicious file?  
+- Enter your answer in defanged format.                    
+                   - **cdn[.]bandityeti[.]thm**
+- What is the "user-agent" value used to download the non-executable file?
+                    - **Nim httpclient/1.6.8**
+- What is the sha256 hash value of the executable file?
+                    - **0ce160a54d10f8e81448d0360af5c2948ff6a4dbb493fe4be756fc3e2c3f900f**
+- What are the connected IP addresses?  
+- Enter the IP addressed defanged and in numerical order. (format: IPADDR,IPADDR)
+                    - **20[.]99[.]133[.]109,20[.]99[.]184[.]37,23[.]216[.]147[.]76**
+
+
+
+### Day 14
+
+What is the office number of Elf Pivot McRed?
+                  **134**
+Not only profile pages but also stored images are vulnerable. Start with a URL of a valid profile image; what is the hidden flag?
+                  **{THM_CLOSE_THE_DOOR}**
