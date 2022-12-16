@@ -146,3 +146,15 @@
 - **file renaming**
 - What defence technique can be used to make sure malicious files that can hurt elves are not uploaded?
 - **malware scanning**
+
+
+### Day 16
+
+What is the value of Flag1?
+			**THM{McCode, Elf McCode}**
+What is the value of Flag2?
+              **THM{KodeNRoll}**
+What is the value of Flag3?
+               **THM{Are we secure yet?}**
+What is the value of Flag4? 
+                **THM{SQLi_who???}**
